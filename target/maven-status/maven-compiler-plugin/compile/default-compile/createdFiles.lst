@@ -1,0 +1,9 @@
+com\bookStore\repository\BookRepository.class
+com\bookStore\repository\MyBookRepository.class
+com\bookStore\controller\MyBookListController.class
+com\bookStore\service\BookService.class
+com\bookStore\entity\MyBookList.class
+com\bookStore\BookStoreApplication.class
+com\bookStore\controller\BookController.class
+com\bookStore\service\MyBookListService.class
+com\bookStore\entity\Book.class
